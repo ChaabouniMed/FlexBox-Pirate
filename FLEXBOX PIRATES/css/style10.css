@@ -1,0 +1,54 @@
+.block2{
+    position: relative;
+}
+.threenenu{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    margin-left: -28px;
+}
+.nenu1,.nenu3{
+    margin-left: -75px;
+}
+
+.frogy{
+    margin: 18px 0 0 10px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+}
+
+.threefrog{
+    position: absolute;
+    left: -20px;
+    z-index: 2;
+} 
+#inp1{
+    margin-top:0px;
+}
+
+.frogy2{
+    margin-left: 75px;
+}
+.frogy3{
+    margin-left: 140px;
+}
+
+.vrai1fr3{
+    margin-left:10px !important;
+}
+.vrai1fr2{
+    margin-left:75px !important;
+}
+.vrai1fr1{
+    margin-left:140px !important;
+}
+
+.vrai2fr1{
+    margin-left: 575px;
+}
+.vrai2fr2{
+    margin-left: 510px;
+}
+.vrai2fr3{
+    margin-left: 440px;
+} 

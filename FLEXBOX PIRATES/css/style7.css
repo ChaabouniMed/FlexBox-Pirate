@@ -1,0 +1,48 @@
+.block2{
+    position: relative;
+}
+.threenenu{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    bottom: 0;
+    justify-content:space-around;
+    width: 100%;
+}
+
+.frogy{
+    margin: 18px 0 0 10px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+}
+
+.threefrog{
+    position: absolute;
+    left: -20px;
+    z-index: 2;
+} 
+
+.frogy2{
+    margin-left: 75px;
+}
+.frogy3{
+    margin-left: 140px;
+}
+#inp1{
+    margin-top:0px;
+}
+
+.vrai2{
+    top:482px
+}
+
+.vrai1fr1{
+    left:67px
+}
+.vrai1fr2{
+    left:233px
+}
+.vrai1fr3{
+    left:394px
+}

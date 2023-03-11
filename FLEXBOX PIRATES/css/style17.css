@@ -1,0 +1,87 @@
+.block2{
+    position: relative;
+}
+.threenenu{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    /* height: 100%; */
+    margin-left: -28px;
+    flex-wrap: wrap;
+}
+.nenu3, .nenu1,.nenu4{
+    margin-left: -53px;
+}
+.nenu8{
+    margin-left: 0px
+}
+
+.frogy{
+    margin: 18px 0 0 10px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+}
+
+.threefrog{
+    position: absolute;
+    left: -20px;
+    z-index: 2;
+} 
+
+.frogy2{
+    margin-left: 75px;
+}
+.frogy3{
+    margin-left: 140px;
+}
+.frogy4{
+    margin-left: calc(140px + 65px);
+}
+.frogy5{
+    margin-left: calc(140px + 2*65px);
+}
+.frogy6{
+    margin-left: calc(140px + 3*65px);
+}
+.frogy7{
+    margin-left: calc(140px + 4*65px);
+}
+.frogy8{
+    margin-left: calc(140px + 5*65px);
+}
+.frogy9{
+    margin-left: calc(140px + 6*65px);
+}
+
+#inp1{
+    margin-top:0px;
+}
+
+
+.change2{
+    margin-left: 98px !important;
+}
+.change3{
+    margin-left: 188px !important;
+}
+.change4{
+    margin-left: calc(189px + 90px) !important;
+}
+.change5{
+    margin-left: calc(189px + 2*90px) !important;
+}
+.change6{
+    margin-left: calc(189px + 3*90px) !important;
+}
+.change7{
+    margin-left: calc(189px + 4*90px) !important;
+}
+.change8{
+    margin-top:163px !important ;
+    margin-left: 10px !important;
+}
+
+.change9{
+    margin-top:163px !important ;
+    margin-left: 98px !important;
+}

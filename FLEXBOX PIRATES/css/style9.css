@@ -1,0 +1,47 @@
+.block2{
+    position: relative;
+}
+.threenenu{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.nenu{
+    margin-left: -25px;
+}
+.nenu3 , .nenu1{
+    margin-top: -40px;
+}
+
+.frogy{
+    margin: 18px 0 0 10px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+}
+
+.threefrog{
+    position: absolute;
+    left: -20px;
+    z-index: 2;
+} 
+
+.frogy2{
+    margin-left: 75px;
+}
+.frogy3{
+    margin-left: 140px;
+}
+
+/* .change1{
+    margin-left: 575px;
+} */
+.change2{
+    margin-top: 118px;
+    margin-left: 10px;
+}
+.change3{
+    margin-top: 218px;
+    margin-left: 10px;
+} 
+

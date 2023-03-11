@@ -1,0 +1,28 @@
+.map{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    z-index: -1;
+}
+.pirate{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    width: 125px;
+    height: 115px;
+}
+.btn-danger1{
+    position: absolute;
+    width: 79px;
+    height: 36px;
+    border-radius: 12%;
+    bottom: 18px;
+    right: 53px;
+    background-color: red;
+    color: white;
+    z-index: 3;
+    border: none;
+    outline: none;
+    }

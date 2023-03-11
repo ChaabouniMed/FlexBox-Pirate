@@ -1,0 +1,30 @@
+.block2 {
+    position: relative;
+}
+.nenu{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.frogy{
+    margin-top: 18px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+    z-index: 2;
+}
+#inp1{
+    margin-top:0px;
+}
+
+.vrai1{
+    right: 285px;
+}
+
+.vrai2{
+    top: 242px;
+}
+
+
+

@@ -1,0 +1,42 @@
+.block2{
+    position: relative;
+}
+.threenenu{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.frogy{
+    margin: 18px 0 0 10px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+}
+
+.threefrog{
+    position: absolute;
+    left: -20px;
+    z-index: 2;
+} 
+
+.change1{
+    margin-left: 78px;
+}
+.change2{
+    margin-left: 304px !important;
+}
+.change3{
+    margin-left: 534px !important;
+}
+.frogy1{
+}
+.frogy2{
+    margin-left: 75px;
+}
+.frogy3{
+    margin-left: 140px; 
+}
+

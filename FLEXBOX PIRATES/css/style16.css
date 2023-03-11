@@ -1,0 +1,87 @@
+.block2{
+    position: relative;
+}
+.threenenu{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin-left: -28px;
+}
+.nenu3, .nenu1,.nenu4{
+    margin-left: -48.5px;
+}
+
+.block1 .reponse{
+    display: flex;
+    height: 280px;
+    width: 100%;
+    background-color: var(--second-color);
+    border-radius: 2%;
+    position: relative;
+}
+
+.frogy{
+    margin: 18px 0 0 10px;
+    animation: zoom 1s   infinite ;
+    position: absolute;
+}
+
+.threefrog{
+    position: absolute;
+    left: -20px;
+    z-index: 2;
+} 
+
+.frogy2{
+    margin-left: 103px;
+}
+.frogy3{
+    margin-left: 197px;
+}
+.frogy4{
+    margin-left: calc(197px + 95px);
+}
+.frogy5{
+    margin-left: calc(197px + 2*95px);
+}
+.frogy6{
+    margin-left: calc(197px + 3*95px);
+}
+.frogy7{
+    margin-left: calc(197px + 4*95px);
+}
+
+#inp1{
+    margin-top:0px;
+}
+
+
+.nenuye1{
+    margin-top: 485px;
+}
+.nenuye2{
+    margin-top: 485px;
+}
+
+
+.vraiye1{
+    margin-left: calc(197px + 3*95px) !important;
+}
+.vraiye2{
+    margin-left: calc(197px + 4*95px) !important;
+}
+.vraiye1bot{
+    margin-top: 500px !important;
+}
+.vraiye2bot{
+    margin-top: 500px !important;
+}
+
+.vraigr1{
+    margin-left: 10px !important;
+}
+.vraigr2{
+    margin-left: calc(197px + 95px) !important;
+
+}

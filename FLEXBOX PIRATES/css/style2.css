@@ -1,0 +1,29 @@
+.block2{
+    position: relative;
+}
+.twonenu{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+.nenu2{
+    margin-left: -75px;
+}
+.frogy{
+    animation: zoom 1s   infinite  ;
+    margin: 18px 0 0 10px;
+    position: absolute;
+}
+
+.twofrog{
+    position: absolute;
+    left: -15px;
+    z-index: 2;
+} 
+
+.frogy2{
+    margin-left: 75px;
+}
+.vrai2{
+    left: 245px;
+}

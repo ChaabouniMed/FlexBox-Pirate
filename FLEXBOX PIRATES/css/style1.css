@@ -1,0 +1,23 @@
+.block2{
+    position: relative;
+}
+.nenu{
+    position: absolute;
+    right: 0;
+}
+
+.frogy{
+    position: absolute;
+    z-index: 2;
+    animation: zoom 1s   infinite  ;
+    margin-top: 18px;
+} 
+
+.parent .block2 .container .nenu{
+    position: absolute;
+    left: 50px;
+    top: 0;
+}
+.vrai{
+    right: 15px;
+}

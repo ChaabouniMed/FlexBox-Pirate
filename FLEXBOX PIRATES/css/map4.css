@@ -1,0 +1,60 @@
+.map{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+    z-index: -1;
+}
+.pirate{
+    position: absolute;
+    /* top: 47%;
+    left: 25%; */
+    top: 12%;
+    left: 31.8%;
+    width: 125px;
+    height: 115px;
+    animation: dep 2s;
+    animation-timing-function: linear;
+    animation-fill-mode: both;
+}
+.btn-danger1{
+    position: absolute;
+    width: 79px;
+    height: 36px;
+    border-radius: 12%;
+    bottom: 18px;
+    right: 53px;
+    background-color: red;
+    color: white;
+    z-index: 5;
+    border: none;
+    outline: none;
+    }
+.btn-danger1:hover{
+    cursor: pointer;
+}
+
+@keyframes dep {
+    0%{
+        top: 13%;
+        left: 66%;
+    }
+    20%{
+        top: 0.5%;
+        left: 58.5%;
+    }
+    60%{
+        top: 4%;
+        left: 44%;
+    }
+    80%{
+        top: 1%;
+        left: 35%;
+    }
+    100%{
+        top: 12%;
+        left: 31.8%;
+    }
+}
+

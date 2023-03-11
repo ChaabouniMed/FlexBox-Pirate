@@ -1,0 +1,36 @@
+body{
+    background-image:url(../imags/back222.jpg);
+    background-repeat: round;
+    height: 96vh;
+}
+
+
+.captan{
+    position: absolute;
+    height: 300px;
+    width: 450px;
+    /* top: 26%; */
+    left: 6.5%;
+    top: 11%;
+}
+.speech{
+    position: absolute;
+    height: 550px;
+    width: 1250px;
+    left: 8.5%;
+    top: -50px;
+    z-index: -1;
+}
+
+.btn{
+    position: absolute;
+    left: 69%;
+    top: 46.5%;
+}
+
+pre{
+    position: absolute;
+    left: 520px;
+    top: 140px;
+    font-weight: bold;
+}
